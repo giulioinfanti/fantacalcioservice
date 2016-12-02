@@ -19,6 +19,6 @@ Una volta aperte le impostazioni, clicca su 'Lista dei filtri' e attiva tutti i 
 
 Ecco fatto. Ora sei libero di navigare fantacalcioservice.it (che tra l'altro è un sito fatto da schifo, poiché preferiscono investire le proprie risorse in puttanate del genere piuttosto che nel migliorare l'esperienza degli utenti) senza visualizzare pubblicità o banner di nessun tipo.
 
-Mi raccomando, fai eseguire questi passaggi a tutti gli utenti della tua lega.
+# Mi raccomando, fai eseguire questi passaggi a tutti gli utenti della tua lega.
 
 A breve pubblicherò anche uno script per migliorare l'esperienza utente, ovvero modificare quello sfondo senza senso, eliminare i tasti inutili, rendere più snella l'interfaccia, rimuovere la sezione Notizie, la sezione Facebook e tutte le robe inutili sulla sidebar a destra.
