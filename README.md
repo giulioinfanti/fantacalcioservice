@@ -7,7 +7,7 @@ Nell'attesa del prossimo anno, in cui probabilmente tutta la userbase si trasfer
 Se usi AdBlock o AdBlock plus, dovrai installare un AdBlock più avanzato.
 Il nome è uBlock Origin, funziona identico ai tuoi vecchi AdBlock ma fornisce anche strumenti per aggirare i blocchi dei siti web.
 
-Se usi Chrome questo è il link per installarlo
+Se usi #Chrome# questo è il link per installarlo
 https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=it
 
 Se usi Firefox
