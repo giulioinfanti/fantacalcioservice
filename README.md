@@ -4,7 +4,9 @@ Gli admin di Fantacalcioservice sembrano essersi parzialmente rinsaviti, e ora p
 Hanno aggiunto un'altra minchiata di ritorno, ora tracciano tutti gli utenti che usano AdBlock.
 Se entri nel loro sito usando AdBlock, mandano a Google Analytics le informazioni sull'utente.
 
-In ogni caso, puoi seguire questa guida per eliminare anche quello.
+Finché rimarrà questo tracciamento e finché il banner che stiamo usando AdBlock continuerà a vedersi in pagine diverse dalla home page e continuamente, continuerò a tenere pubblicata e aggiornata questa guida, e a diffonderla il più possibile.  
+
+Segui quindi questi step per rimuovere banner, tracciamenti e pubblicità.
 
 ## COME FARE
 Se usi AdBlock o AdBlock plus, dovrai installare un AdBlock più avanzato.   
