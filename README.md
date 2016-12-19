@@ -42,8 +42,6 @@ www.fantacalcioservice.it##.header
 ||www.fantacalcioservice.it/Images/bgWideSkyLeft.png$image  
 ||share.fantacalcioservice.it/images/news/news_1090498_b.jpg$image  
 www.fantacalcioservice.it###PanelMenuRight  
-www.fantacalcioservice.it##tr:nth-of-type(1) > td:nth-of-type(6)  
-www.fantacalcioservice.it##tr:nth-of-type(2) > td:nth-of-type(6)  
 ||www.fantacalcioservice.it/Images/bgWideSkyLeft.png$image  
 ||www.fantacalcioservice.it/Images/home/bgHomePage.jpg$image  
 www.fantacalcioservice.it###WideSkyScraper  
